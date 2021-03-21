@@ -7,6 +7,7 @@ This code to check whether the input is prime or not
 ![image](https://user-images.githubusercontent.com/81028118/111909140-2e43bb00-8ab0-11eb-8561-72afbbc720a6.png)
 
 If the input number is a prime number; then the system will print out x or xx orxxx...  is a prime number
+
 If the input number is not a prime number; then the sytem will print out x or xx or xxx... is not a prime number, please try again.
 
 The time complexcity of this code is O(n)
