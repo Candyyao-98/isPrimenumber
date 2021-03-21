@@ -17,6 +17,7 @@ This code is to dermine the position of input prime number
 ![image](https://user-images.githubusercontent.com/81028118/111909212-7c58be80-8ab0-11eb-8b1d-feabe5b3a85a.png)
 
 For this part, if the input number is a prime number; then the system will print out x or xx orxxx...  is a prime number, and print out the position of this prime number
+
 If the input number is not a prime number; then the sytem will print out x or xx or xxx... is not a prime number, please try again.
 
 The time complexcity of this code is O(N log (log N))
