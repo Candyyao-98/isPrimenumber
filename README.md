@@ -10,8 +10,8 @@ If the input number is a prime number; then the system will print out x or xx or
 
 If the input number is not a prime number; then the sytem will print out x or xx or xxx... is not a prime number, please try again.
 
-The time complexcity of this code is O(n)
-However, if add an while loop (while(true)), to let the code continue running, the time complexcity will become O(n^2)
+The time complexity of this code is O(n)
+However, if add an while loop (while(true)), to let the code continue running, the time complexity will become O(n^2)
 
 # positionOfPrime
 This code is to dermine the position of input prime number 
@@ -21,7 +21,7 @@ For this part, if the input number is a prime number; then the system will print
 
 If the input number is not a prime number; then the sytem will print out x or xx or xxx... is not a prime number, please try again.
 
-The time complexcity of this code is O(N log (log N))
+The time complexity of this code is O(N log (log N))
 
 
 
